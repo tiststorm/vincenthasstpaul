@@ -1,4 +1,5 @@
 from selenium import webdriver
+#FINAL leicht trash, aber who cares
 
 driver = webdriver.Chrome()
 
